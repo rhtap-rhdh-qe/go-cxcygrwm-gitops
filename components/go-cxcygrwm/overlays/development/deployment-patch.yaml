@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-cxcygrwm:ecc11faffc695712d0502d3e77a948eac7d705f6@sha256:ea1a6cad3d433cfad4e0a650d1a810ae08468991fc1c0348a366147561ad2fb4
+        - image: quay.io/rhtap_qe/go-cxcygrwm:5292fc3bee45aad2505179dcab8056139215d266@sha256:9cde629daa06fc8085c25a20353be81ad805991edc937e7f2755339b2d3e5d4c
           name: container-image
